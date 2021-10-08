@@ -1,1 +1,1 @@
-# Cardano-Link-BEP20
+# CatenaX-BEP20
